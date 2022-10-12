@@ -10,7 +10,6 @@ from decouple import config
 USERNAME = config('USERNAME')
 PASSWORD = config('PASSWORD')
 
-print(USERNAME, PASSWORD)
 def connection():
     service = Service(ChromeDriverManager().install())
     chrome_options = Options()
