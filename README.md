@@ -8,4 +8,5 @@ To make it work
 PASSWORD=<<b>Your Epitech Password><br>
 USERNAME=<email@epitech.eu><br>
 <br>
-4 - Run the program and wait<br>
+4 - Run the program (boteip.py) and wait<br>
+5 - After run boteip.py, run GetEmailChief.py and wait <br>
